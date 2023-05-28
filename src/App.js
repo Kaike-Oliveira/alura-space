@@ -1,25 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+// STYLE
+import './styles/GlobalStyles.scss';
+import './resources/fontes/GandhiSans-Regular.otf';
+import './resources/fontes/GandhiSans-Bold.otf';
 
-function App() {
+// PAGES
+import { HomePage } from "./pages/HomePage/HomePage";
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HomePage />
   );
 }
-
-export default App;

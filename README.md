@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Alura Space
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project, called Alura Space, is a space image portfolio developed by Kaike using React and JavaScript as part of a course offered by the Alura platform.
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+Alura Space is a React-based web application that allows users to explore and view a vast collection of space images. Users can navigate through the images, view them in their entirety, and obtain detailed information about each one. The main goal of this project is to provide an interactive and educational environment that sparks interest and curiosity about the universe.
 
-### `yarn start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
+- JavaScript
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Run the Project Locally
 
-### `yarn test`
+To run the project on your local machine, follow the instructions below:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the Alura Space repository to your local machine:
 
-### `yarn build`
+```
+git clone https://github.com/Kaike-Oliveira/alura-space.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Navigate to the project directory:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+cd alura-space
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+3. Install project dependencies using Yarn:
+```
+yarn install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Start the application:
+```
+yarn start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. Open your browser and access `http://localhost:3000` to view Alura Space.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions for improvements and bug fixes to the project are always welcome. If you wish to contribute, follow the steps below:
 
-## Learn More
+1. Fork the repository.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Create a branch for your changes:
+```
+git checkout -b my-branch
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+3. Make the desired changes and commit them:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+git commit -m "My changes"
+```
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4. Push your branch to the remote repository:
+```
+git push origin my-branch
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+5. Open a Pull Request on the original repository.
 
-### Advanced Configuration
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+If you have any questions, suggestions, or feedback about Alura Space, feel free to contact me, Kaike, via email at kaikeoliveira196@gmail.com
 
-### Deployment
+## About me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+LinkedIn: https://www.linkedin.com/in/kaikeoliveira/
 
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: https://github.com/Kaike-Oliveira
